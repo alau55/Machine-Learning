@@ -1,5 +1,3 @@
-alau55-github.com
-=================
 Build out a CNN classifier that takes MRI scans of the brain as an input and classify those scans into 4 multi-classes, including:
 
 No tumor
